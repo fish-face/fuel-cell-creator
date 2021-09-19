@@ -16,7 +16,7 @@ Compiling
 ===
 
 ```console
-$ nim c -d:danger --threads:on --cc:clang solver.nim
+$ nim c -d:danger --threads:on solver.nim
 ```
 
 Usage
